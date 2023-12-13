@@ -1,2 +1,2 @@
 # Fancy-Crap-Folder
-Anything can go in here
+All projects 'crap' and good are in this repository
